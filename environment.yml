@@ -1,0 +1,11 @@
+name: comp-grafica
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyter
+  - sympy
+  - vispy
+  - libstdcxx-ng
+prefix: /home/harvey/anaconda3/envs/comp-grafica
