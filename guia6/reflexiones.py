@@ -117,6 +117,6 @@ for i, y in enumerate(np.linspace(pantalla[1], pantalla[3], altura)):
     
     print("%d/%d" % (i + 1, altura))
 # Guargar e imprimir la imagen
-#plt.imsave('imagen.png', imagen)
+plt.imsave('imagen1.png', imagen)
 implot = plt.imshow(imagen)
 plt.show()
