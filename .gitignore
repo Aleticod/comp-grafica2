@@ -3,3 +3,6 @@
 *.rar
 prueba*
 .ipynb_checkpoints/
+*.jpg
+*.jpge
+*.png
